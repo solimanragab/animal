@@ -1,0 +1,27 @@
+div{
+    border-width: 10px;
+    font-family: initial;
+    font-size: 30px;
+    padding: 0;
+    margin-top: 150px;
+    margin-left: 70%;
+    border-style: double; 
+    border-color: rgb(0, 0, 0);
+    width: 400px;
+    background-color: #87dfd9;
+}    
+
+
+body{
+    background-image: url(animal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div hr{
+    margin-left: 0;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
